@@ -1,0 +1,7 @@
+C:\Users\Анна\Desktop\WorkWithDirectoriesFiles\WorkWithDirectoriesFiles\bin\Debug\WorkWithDirectoriesFiles.exe.config
+C:\Users\Анна\Desktop\WorkWithDirectoriesFiles\WorkWithDirectoriesFiles\bin\Debug\WorkWithDirectoriesFiles.exe
+C:\Users\Анна\Desktop\WorkWithDirectoriesFiles\WorkWithDirectoriesFiles\bin\Debug\WorkWithDirectoriesFiles.pdb
+C:\Users\Анна\Desktop\WorkWithDirectoriesFiles\WorkWithDirectoriesFiles\obj\Debug\WorkWithDirectoriesFiles.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\WorkWithDirectoriesFiles\WorkWithDirectoriesFiles\obj\Debug\WorkWithDirectoriesFiles.exe
+C:\Users\Анна\Desktop\WorkWithDirectoriesFiles\WorkWithDirectoriesFiles\obj\Debug\WorkWithDirectoriesFiles.pdb
+C:\Users\Анна\Desktop\WorkWithDirectoriesFiles\WorkWithDirectoriesFiles\obj\Debug\WorkWithDirectoriesFiles.csprojAssemblyReference.cache
